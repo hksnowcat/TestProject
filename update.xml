@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/2.6">
+	<versionNumber>1.0</versionNumber>
+	<url>https://github.com/downloads/hksnowcat/TestProject/Test_v1.0.air</url>
+	<description><![CDATA[
+		New version includes:
+		A
+		B
+		C
+	]]></description>
+</update>
