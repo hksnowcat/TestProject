@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
+<update xmlns="http://ns.adobe.com/air/framework/update/description/2.6">
 	<versionNumber>1.1</versionNumber>
-	<url>http://github.com/downloads/hksnowcat/TestProject/Test_v1.1.air</url>
+	<url>http://github.com/hksnowcat/TestProject/raw/master/Test_v1.1.air</url>
 	<description><![CDATA[
 		New version includes:
 		A
